@@ -1,0 +1,17 @@
+pymupdf
+langchain-text-splitters
+sentence-transformers
+faiss-cpu
+numpy
+openai
+python-dotenv
+# RAGAS evaluation
+ragas>=0.2,<0.4
+langchain-openai
+datasets
+pandas
+# Postgres / Supabase
+psycopg[binary]
+pgvector
+# Web app
+streamlit
